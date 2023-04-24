@@ -15,8 +15,8 @@
 - (A) [__Brief__](#brief)
   - [__Project__](#project)
   - [__Data__](#data)
-  - [__Demo__](#demo) -> [Live Demo]()
-  - [__Study__](#problemgoal-and-solving-approach) -> [Colab]()
+  - [__Demo__](#demo) -> [Live Demo](https://ertugruldemir-namedentityrecognition.hf.space)
+  - [__Study__](#problemgoal-and-solving-approach) -> [Colab](https://colab.research.google.com/drive/1z002ybqI8M5ak0LAjHrD0mNeVAV4yzUB)
   - [__Results__](#results)
 - (B) [__Detailed__](#Details)
   - [__Abstract__](#abstract)
@@ -27,7 +27,6 @@
     - [__(D) Deployment as web demo app__](#g-deployment-as-web-demo-app)
   - [__Licance__](#license)
   - [__Connection Links__](#connection-links)
-  - NOTE: The model file exceeded limitations. you can download it from this [link]().
 
 ## __Brief__ 
 
@@ -45,16 +44,16 @@
   <table>
     <tr>
     <td>
-        <a target="_blank" href="" height="30"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30">[Demo app] HF Space</a>
+        <a target="_blank" href="https://ertugruldemir-namedentityrecognition.hf.space" height="30"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30">[Demo app] HF Space</a>
       </td>
       <td>
-        <a target="_blank" href=""><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Demo app] Run in Colab</a>
+        <a target="_blank" href="https://colab.research.google.com/drive/1f-_tk0nMSXod8n8jr9ch1PGuPw2HJfO-"><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Demo app] Run in Colab</a>
       </td>
       <td>
-        <a target="_blank" href=""><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png">[Traning pipeline] source on GitHub</a>
+        <a target="_blank" href="https://github.com/ertugruldmr/NamedEntityRecognition/blob/main/study.ipynb"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png">[Traning pipeline] source on GitHub</a>
       </td>
     <td>
-        <a target="_blank" href=""><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Traning pipeline] Run in Colab</a>
+        <a target="_blank" href="https://colab.research.google.com/drive/1z002ybqI8M5ak0LAjHrD0mNeVAV4yzUB"><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Traning pipeline] Run in Colab</a>
       </td>
     </tr>
   </table>
@@ -65,11 +64,11 @@
     -  __Extract structured information__ from text data.
     - __Usage__: 
       - Write your text then clict the button for extraction
-- Embedded [Demo]() window from HuggingFace Space
+- Embedded [Demo](https://ertugruldemir-namedentityrecognition.hf.space) window from HuggingFace Space
     
 
 <iframe
-	src=""
+	src="https://ertugruldemir-namedentityrecognition.hf.space"
 	frameborder="0"
 	width="850"
 	height="450"
@@ -198,7 +197,7 @@ The project aimed predicting the age and gender using deep learning model archit
     - Usage: write your text for information extraction then use the button to predict.
   - Demo
     - The demo app in the demo_app folder as an individual project. All the requirements and dependencies are in there. You can run it anywhere if you install the requirements.txt.
-    - You can find the live demo as huggingface space in this [demo link]() as full web page or you can also us the [embedded demo widget](#demo)  in this document.  
+    - You can find the live demo as huggingface space in this [demo link](https://ertugruldemir-namedentityrecognition.hf.space) as full web page or you can also us the [embedded demo widget](#demo)  in this document.  
     
 ## License
 - This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for details.
