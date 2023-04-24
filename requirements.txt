@@ -1,0 +1,6 @@
+conlleval==0.2
+datasets==2.11.0
+gradio==3.27.0
+numpy==1.23.5
+protobuf==4.22.3
+tensorflow==2.11.0
